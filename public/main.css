@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+.card-header{
+    box-shadow: 0 0 4px #ddd;
+    margin: 2px;
+    text-align: center;
+    background-color: wheat;
+    color: #333;
+}
